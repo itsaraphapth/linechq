@@ -115,7 +115,7 @@ if(isset($_SESSION['ses_login_userData_val']) && $_SESSION['ses_login_userData_v
                 <br>
             <?php }else{?>
                 <br>
-                <div class="text-center"><h3>CM Logina</h3></div>
+                <div class="text-center"><h3>CM Login</h3></div>
                 <br>
                 <div id="error"><span></span></div>
                 <div class="col-md-12">
